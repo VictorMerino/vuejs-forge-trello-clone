@@ -15,6 +15,7 @@ coverage
 *.local
 
 .env
+kendo-ui-license.txt
 
 /cypress/videos/
 /cypress/screenshots/
