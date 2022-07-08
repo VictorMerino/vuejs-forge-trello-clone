@@ -1,5 +1,5 @@
 {
-  "name": "vue-forge-boilerplate",
+  "name": "vue-forge-trello-clone",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
