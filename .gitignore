@@ -21,7 +21,6 @@ kendo-ui-license.txt
 /cypress/screenshots/
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 *.suo
